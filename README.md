@@ -1,6 +1,6 @@
 # LAB-1
 Senin 11 Agustus 2025
-![topo]()
+![topo](topo.jpeg)
 Untuk logging in ke Mikrotik ada beberapa cara:
 1. Winbox
 2. WebFig
@@ -26,9 +26,9 @@ Untuk logging in ke Mikrotik ada beberapa cara:
     1. Buka Browser
     2. Pada URL bar, ketik IP Address (default Mikrotik) 192.168.88.1
     3. Isi Login dan password, Login "admin" password dikosongkan.
-![webfigg](webfigsatu.PNG)
+![webfigg](webfigsatu.png)
     4. Jika berhasil, akan ada tampilan GUI ROuterOS nya
-![webfig](webfigdua.PNG)
+![webfig](webfigdua.png)
 
 # 3. Telnet
    Cara ketiga adalah mengunakan Telnet pada Putty, berikut ini langkahnya:
