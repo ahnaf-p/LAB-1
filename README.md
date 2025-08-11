@@ -21,7 +21,7 @@ Untuk logging in ke Mikrotik ada beberapa cara:
 ![winbox](winbox.PNG)
 
 # 2. WebFig
-  Cara kedua yaitu mengunakan WebFig (browser), berikut langkah-langkahnya:
+  Cara kedua yaitu mengunakan WebFig (browser), berikut langkah-langkahnya: 
     1. Buka Browser
     2. Pada URL bar, ketik IP Address (default Mikrotik) 192.168.88.1
     3. Isi Login dan password, Login "admin" password dikosongkan.
