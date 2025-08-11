@@ -62,5 +62,17 @@ Untuk logging in ke Mikrotik ada beberapa cara:
 
 ![zia](zia.PNG)
 
-# 6. COnsole
-   Akses Mikrotik 
+# 6. Console
+   Akses Mikrotik mengunakan kabel Console dan masi di putty, sebagai berikut:
+   1. Buka putty
+   2. Pilih Serial
+   3. Isi serial line dengan nama devicenya, untuk melihat nama devicenya bisa mengunakan Device Manager, dibagian **Ports (COM & LPT)**
+   4. Disitu nanti ada nama devicenya **USB Serial Port (COM3)**, gunakan yang dalam kurungnya saja **(COM3)**
+   5. Isi speednya dengan default Mikrotik (115200)
+   6. Klik Open
+   7. Kalau muncul layar kosong, klik enter sekali nanti akan keluar tampilan login
+   8. Isi admin dan password kosong
+
+# 7. Tik App
+   Akses Mikrotik mengunakan handphone, sebagai berikut
+   1.
