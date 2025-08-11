@@ -22,12 +22,10 @@ Untuk logging in ke Mikrotik ada beberapa cara:
 
 # 2. WebFig
   Cara kedua yaitu mengunakan WebFig (browser), berikut langkah-langkahnya: 
-    1. Buka Browser
-    2. Pada URL bar, ketik IP Address (default Mikrotik) 192.168.88.1
-    3. Isi Login dan password, Login "admin" password dikosongkan.
- ![webfigg](webfigsatu.png)
-    4. Jika berhasil, akan ada tampilan GUI ROuterOS nya
- ![webfig](webfigdua.png)
+   1. Buka Browser
+   2. Pada URL bar, ketik IP Address default Mikrotik 192.168.88.1
+   3. Isi login dan password, Login "admin" password kosongkan.
+   4. Jika berhasil, akan ada tampilan GUI RouterOS nya.
 
 # 3. Telnet
    Cara ketiga adalah mengunakan Telnet pada Putty, berikut ini langkahnya:
