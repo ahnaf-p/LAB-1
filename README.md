@@ -29,12 +29,12 @@ Untuk logging in ke Mikrotik ada beberapa cara:
 
 # 3. Telnet
    Cara ketiga adalah mengunakan Telnet pada Putty, berikut ini langkahnya:
-      1. Buka Putty
-      2. Pilih other dan Di dropdown selection, pilih Telnet
-      3. Ketik IP Address default Mikrotik, 192.168.88.1 dan Port 22 (default Mikrotik)
-      4. Klik Open
-      5. Login admin dan tanpa password
-      6. Jika berhasil, nanti akan ada tampilan terminal dengan tulisan "Mikrotik" seperti ini.
+    1. Buka Putty
+    2. Pilih other dan Di dropdown selection, pilih Telnet
+    3. Ketik IP Address default Mikrotik, 192.168.88.1 dan Port 22 (default Mikrotik)
+    4. Klik Open
+    5. Login admin dan tanpa password
+    6. Jika berhasil, nanti akan ada tampilan terminal dengan tulisan "Mikrotik" seperti ini.
 ![telnet](telnet.PNG)
 
 # 4.SSH
