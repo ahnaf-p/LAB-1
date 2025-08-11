@@ -1,6 +1,8 @@
 # LAB-1
 Senin 11 Agustus 2025
+
 ![topo](topo.jpeg)
+
 Untuk logging in ke Mikrotik ada beberapa cara:
 1. Winbox
 2. WebFig
@@ -18,6 +20,7 @@ Untuk logging in ke Mikrotik ada beberapa cara:
    4. Isi Login: admin Password: (kosong)
    5. Lalu klik Connect
    6. Jika berhasil, akan muncul tampilan seperti ini.
+
 ![winbox](winbox.PNG)
 
 # 2. WebFig
@@ -31,20 +34,33 @@ Untuk logging in ke Mikrotik ada beberapa cara:
 
 # 3. Telnet
    Cara ketiga adalah mengunakan Telnet pada Putty, berikut ini langkahnya:
-    1. Buka Putty
-    2. Pilih other dan Di dropdown selection, pilih Telnet
-    3. Ketik IP Address default Mikrotik, 192.168.88.1 dan Port 22 (default Mikrotik)
-    4. Klik Open
-    5. Login admin dan tanpa password
-    6. Jika berhasil, nanti akan ada tampilan terminal dengan tulisan "Mikrotik" seperti ini.
-![telnet](telnet.PNG)
+   1. Buka Putty
+   2. Pilih other dan Di dropdown selection, pilih Telnet
+   3. Ketik IP Address default Mikrotik, 192.168.88.1 dan Port 22 (default Mikrotik)
+   4. Klik open
+   5. Login admin dan tanpa password
+   6. Jika berhasil, nanti akan ada tampilan terminal dengan tulisan "Mikrotik" seperti ini.
+![Telnet](telnet.PNG)
 
 # 4.SSH
-   Cara selanjutnya yaitu mengunakan SSH pada Putty juga
-      1. Buka putty
-      2. Pilih SSH
-      3. Masukan IP Address dan port
-      4. Klik Open
-      5. Login dengan user admin dan without password
-      6. Jika berhasil, tampilannya akan sama seperti login pada Telnet tadi.
+   Cara selanjutnya yaitu mengunakan SSH pada Putty juga:
+   1. Buka putty
+   2. Pilih SSH
+   3. Masukan IP Address dan port default Mikrotik
+   4. Klik open
+   5. Login dengan user admin dan without password
+   6. Jika berhasil, tampilannya akan sama seperti login pada Telnet tadi.
+
 ![ssh](telnet.PNG)
+
+# 5. FTP (filezia)
+   Akses Mikrotik via FTP bisa untuk upload dan download file ke router mikrotik, berikut langkahnya:
+   1. Buka filezia
+   2. Isi Host dengan IP Default Mikrotik, Username isi "admin", password kosongkan dan port 21
+   3. Lalu klik quickconnect
+   4. Jika berhasil, akan ada tulisan " Dir listing of "/" successful dan di titlebar akan ada user@ip
+
+![zia](zia.PNG)
+
+# 6. COnsole
+   Akses Mikrotik 
