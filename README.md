@@ -15,8 +15,7 @@ Untuk logging in ke Mikrotik ada beberapa cara:
    1. Buka WinBox
    2. Pindah ke tab "Neighbors"
    3. Setelah muncul, klik pada MAC Address
-   4. Isi Login: admin
-          Password: (kosong)
+   4. Isi Login: admin Password: (kosong)
    5. Lalu klik Connect
    6. Jika berhasil, akan muncul tampilan seperti ini.
 ![winbox](winbox.PNG)
