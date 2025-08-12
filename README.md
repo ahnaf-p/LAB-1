@@ -82,7 +82,7 @@ Untuk logging in ke Mikrotik ada beberapa cara:
    5. Login dengan user **admin** dan password kosongkan  
    ![tik](tikapp.jpeg)
    6. Jika berhasil, akan muncul tampilan GUI  
-   !(apps)[tikapps.jpeg]
+   ![apps](tikapps.jpeg)
 
 # Kesimpulan
    Lab ini membahas cara untuk login ke router Mikrotik menggunakan beberapa metode. Setiap metode punya alat, protokol, dan kegunaan berbeda-beda.
