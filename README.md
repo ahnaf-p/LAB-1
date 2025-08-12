@@ -73,6 +73,16 @@ Untuk logging in ke Mikrotik ada beberapa cara:
    7. Kalau muncul layar kosong, klik enter sekali nanti akan keluar tampilan login
    8. Isi admin dan password kosong
 
-# 7. Tik App
+# 7. Mikrotik Pro (sebelumnya Tik App)
    Akses Mikrotik mengunakan handphone, sebagai berikut
-   1.
+   1. Pastikan mode wireless di RB nya sudah nyala
+   2. Sambungkan Handphone ke mikrotik melalui Wi-Fi sampai tersambung
+   ![wlan](wlan.PNG)
+   4. Buka Aplikasi Mikrotik Pro
+   5. Login dengan user **admin** dan password kosongkan  
+   ![tik](tikapp.jpeg)
+   6. Jika berhasil, akan muncul tampilan GUI
+   !(tikk)[tikapps.jpeg]
+
+# Kesimpulan
+   Lab ini membahas cara untuk login ke router Mikrotik menggunakan beberapa metode. Setiap metode punya alat, protokol, dan kegunaan berbeda-beda.
